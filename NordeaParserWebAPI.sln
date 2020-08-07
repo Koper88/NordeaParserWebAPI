@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NordeaParserWebAPI", "NordeaParserWebAPI\NordeaParserWebAPI.csproj", "{2BE40D0E-61C7-43B2-B6B6-C0EA5C2B9F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NordeaParserWebAPITests", "NordeaParserWebAPITests\NordeaParserWebAPITests.csproj", "{1FEFBCCE-5CE4-49D4-914B-6073B3B58A30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BE40D0E-61C7-43B2-B6B6-C0EA5C2B9F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE40D0E-61C7-43B2-B6B6-C0EA5C2B9F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE40D0E-61C7-43B2-B6B6-C0EA5C2B9F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE40D0E-61C7-43B2-B6B6-C0EA5C2B9F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FEFBCCE-5CE4-49D4-914B-6073B3B58A30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEFBCCE-5CE4-49D4-914B-6073B3B58A30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEFBCCE-5CE4-49D4-914B-6073B3B58A30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEFBCCE-5CE4-49D4-914B-6073B3B58A30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6405CF5-ACE1-4E21-9A4A-136802AFC4B4}
+	EndGlobalSection
+EndGlobal
